@@ -1,0 +1,15 @@
+D:\Trop_tech\Projeto3_POO\obj\Debug\net6.0\Projeto3_POO.csproj.AssemblyReference.cache
+D:\Trop_tech\Projeto3_POO\obj\Debug\net6.0\Projeto3_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trop_tech\Projeto3_POO\obj\Debug\net6.0\Projeto3_POO.AssemblyInfoInputs.cache
+D:\Trop_tech\Projeto3_POO\obj\Debug\net6.0\Projeto3_POO.AssemblyInfo.cs
+D:\Trop_tech\Projeto3_POO\obj\Debug\net6.0\Projeto3_POO.csproj.CoreCompileInputs.cache
+D:\Trop_tech\Projeto3_POO\bin\Debug\net6.0\Projeto3_POO.exe
+D:\Trop_tech\Projeto3_POO\bin\Debug\net6.0\Projeto3_POO.deps.json
+D:\Trop_tech\Projeto3_POO\bin\Debug\net6.0\Projeto3_POO.runtimeconfig.json
+D:\Trop_tech\Projeto3_POO\bin\Debug\net6.0\Projeto3_POO.dll
+D:\Trop_tech\Projeto3_POO\bin\Debug\net6.0\Projeto3_POO.pdb
+D:\Trop_tech\Projeto3_POO\obj\Debug\net6.0\Projeto3_POO.dll
+D:\Trop_tech\Projeto3_POO\obj\Debug\net6.0\refint\Projeto3_POO.dll
+D:\Trop_tech\Projeto3_POO\obj\Debug\net6.0\Projeto3_POO.pdb
+D:\Trop_tech\Projeto3_POO\obj\Debug\net6.0\Projeto3_POO.genruntimeconfig.cache
+D:\Trop_tech\Projeto3_POO\obj\Debug\net6.0\ref\Projeto3_POO.dll
